@@ -1,0 +1,63 @@
+#base_image{
+  width: 500px;
+  height: 400px;
+  position: relative;
+  left: 350px;
+  top:-150px;
+  /* border: 1px solid black; */
+  background-position: center;
+  background-size: cover;
+}
+
+#image-input{
+  position: relative;
+}
+
+#display-image{
+  width: 10px;
+  height: 20px;
+  position: relative;
+  border: 1px red;
+  left: 10px;
+  top: 10px;
+}
+
+.container{
+  background:#222 ;
+  color:#fff;
+  background-size: cover;
+  background-position: left;
+  width: 100px;
+  height: 90px;
+  /* margin: auto; */
+  position: relative;
+  left: 10px;
+  top: 10px;
+
+}
+
+#img1{
+  position: relative;
+  left: 10px;
+  top: -480px;
+}
+#img2{
+  position: relative;
+  left: -250px;
+  top: -290px;
+}
+
+
+.container2{
+  background:#222 ;
+  color:#fff;
+  background-size: cover;
+  background-position: left;
+  width: 100px;
+  height: 90px;
+  /* margin: auto; */
+  position: relative;
+  left: 10px;
+  top: 100px;
+
+}
